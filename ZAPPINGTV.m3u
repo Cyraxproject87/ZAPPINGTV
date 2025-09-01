@@ -69,7 +69,7 @@ http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/47856
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png", CINEMAX
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2623
 
-#EXTINF:-1, PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1028px-Paramount_Network.svg.png", PARAMOUNT CHANNEL
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/4884
 
 #EXTINF:-1, CINECANAL
