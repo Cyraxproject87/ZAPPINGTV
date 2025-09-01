@@ -42,7 +42,7 @@ http://fivetv.org:25461/Willyb30/willy30d/186515
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png", DIRECTV SPORTS 
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/33608
 
-#EXTINF:-1, DIRECTV SPORTS 2
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/skuq0t1642114108.png", DIRECTV SPORTS 2
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/31760
 
 #EXTINF:-1, DISNEY CHANNEL
