@@ -75,7 +75,7 @@ http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/4884
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2622
 
-#EXTINF:-1, TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png", TNT
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/82030
 
 #EXTINF:-1, FX
