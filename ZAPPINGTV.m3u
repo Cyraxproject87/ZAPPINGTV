@@ -45,7 +45,7 @@ http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/33608
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/skuq0t1642114108.png", DIRECTV SPORTS 2
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/31760
 
-#EXTINF:-1, DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png", DISNEY CHANNEL
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2472
 
 #EXTINF:-1, NICKELODEON
