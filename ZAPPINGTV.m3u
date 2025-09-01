@@ -24,7 +24,7 @@ http://195.66.210.10:80/AlbertArroyo24/MTKGD/588139
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/26/2/espn2-logo-png_seeklogo-261969.png", ESPN 2
 http://fivetv.org:25461/Willyb30/willy30d/92592
 
-#EXTINF:-1, FOX SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/640px-Fox_Sports_Argentina_2023.svg.png", FOX SPORTS
 http://195.66.210.10:80/AlbertArroyo24/MTKGD/158518
 
 #EXTINF:-1, FOX SPORTS 2
