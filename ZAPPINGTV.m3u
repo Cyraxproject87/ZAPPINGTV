@@ -84,7 +84,7 @@ http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/30432
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png", STAR CHANNEL
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/7015
 
-#EXTINF:-1, SONY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2648
 
 #EXTINF:-1, WARNER CHANNEL
