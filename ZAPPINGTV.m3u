@@ -57,7 +57,7 @@ http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/47838
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2471
 
-#EXTINF:-1, DISNEY JUNIOR 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/Disney-Junior-Logo.png", DISNEY JUNIOR 
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/48375
 
 #EXTINF:-1, CARTOON NETWORK
