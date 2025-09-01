@@ -102,7 +102,7 @@ http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/7051
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png", AXN
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2620
 
-EXTINF:-1, AMC
+#EXTINF:-1, AMC
 http://fivetv.org:25461/Willyb30/willy30d/186463
 
 #EXTINF:-1, STUDIO UNIVERSAL
