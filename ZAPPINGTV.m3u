@@ -111,7 +111,7 @@ http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2465
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1200px-2019_Discovery_logo.svg.png", DISCOVERY CHANNEL 
 http://195.66.210.10:80/AlbertArroyo24/MTKGD/93442
 
-#EXTINF:-1, ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png", ANIMAL PLANET
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2685
 
 #EXTINF:-1, QUIERO MÚSICA
