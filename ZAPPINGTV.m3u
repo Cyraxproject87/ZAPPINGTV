@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg"
-, TELEFÉ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg", TELEFÉ
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/6986
 
 #EXTINF:-1, CANAL 7 NEUQUÉN
