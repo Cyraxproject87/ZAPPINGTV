@@ -39,7 +39,7 @@ http://fivetv.org:25461/Willyb30/willy30d/92602
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1200px-TNT_Sports_%282023%29.svg.png", TNT SPORTS 
 http://fivetv.org:25461/Willyb30/willy30d/186515
 
-#EXTINF:-1, DIRECTV SPORTS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png", DIRECTV SPORTS 
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/33608
 
 #EXTINF:-1, DIRECTV SPORTS 2
