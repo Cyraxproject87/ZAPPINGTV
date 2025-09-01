@@ -27,7 +27,7 @@ http://fivetv.org:25461/Willyb30/willy30d/92592
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/640px-Fox_Sports_Argentina_2023.svg.png", FOX SPORTS
 http://195.66.210.10:80/AlbertArroyo24/MTKGD/158518
 
-#EXTINF:-1, FOX SPORTS 2
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/3/fox-sports-2-argentina-2023-logo-png_seeklogo-471070.png", FOX SPORTS 2
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/3086
 
 #EXTINF:-1, ESPN PREMIUM 
