@@ -51,7 +51,7 @@ http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2472
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png", NICKELODEON
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2477
 
-#EXTINF:-1, CARTOONITO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png", CARTOONITO
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/47838
 
 #EXTINF:-1, DISCOVERY KIDS
