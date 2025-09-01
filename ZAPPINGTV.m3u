@@ -87,7 +87,7 @@ http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/7015
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY CHANNEL 
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2648
 
-#EXTINF:-1, WARNER CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WARNER CHANNEL
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/7049
 
 #EXTINF:-1, UNIVERSAL CHANNEL
