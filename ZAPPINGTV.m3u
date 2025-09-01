@@ -102,7 +102,7 @@ http://fivetv.org:25461/Willyb30/willy30d/186494
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1280px-HBO2_logo.svg.png", HBO 2
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/7011
 
-#EXTINF:-1, HBO FAMILY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO FAMILY
 http://195.66.210.10:80/AlbertArroyo24/MTKGD/439797
 
 #EXTINF:-1, NATIONAL GEOGRAPHIC
