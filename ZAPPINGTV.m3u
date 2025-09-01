@@ -105,7 +105,7 @@ http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/7011
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO FAMILY
 http://195.66.210.10:80/AlbertArroyo24/MTKGD/439797
 
-#EXTINF:-1, NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png", NATIONAL GEOGRAPHIC
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2465
 
 #EXTINF:-1, DISCOVERY CHANNEL 
