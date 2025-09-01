@@ -36,7 +36,7 @@ http://fivetv.org:25461/Willyb30/willy30d/89731
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png", ESPN DEPORTES
 http://fivetv.org:25461/Willyb30/willy30d/92602
 
-#EXTINF:-1, TNT SPORTS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1200px-TNT_Sports_%282023%29.svg.png", TNT SPORTS 
 http://fivetv.org:25461/Willyb30/willy30d/186515
 
 #EXTINF:-1, DIRECTV SPORTS 
