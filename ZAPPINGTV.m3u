@@ -12,7 +12,7 @@ http://fivetv.org:25461/Willyb30/willy30d/186516
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", CANAL 13
 http://195.66.210.10:80/AlbertArroyo24/MTKGD/46976
 
-#EXTINF:-1, TN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png", TN
 http://195.66.210.10:80/AlbertArroyo24/MTKGD/613255
 
 #EXTINF:-1, TyC SPORTS
