@@ -60,7 +60,7 @@ http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2471
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/Disney-Junior-Logo.png", DISNEY JUNIOR 
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/48375
 
-#EXTINF:-1, CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2470
 
 #EXTINF:-1, SPACE
