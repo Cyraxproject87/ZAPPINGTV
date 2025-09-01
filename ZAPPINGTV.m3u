@@ -6,7 +6,7 @@ http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/6986
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png", CANAL 7 NEUQUÉN
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, TV PÚBLICA
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/18/1/tv-publica-logo-png_seeklogo-180741.png", TV PÚBLICA
 http://fivetv.org:25461/Willyb30/willy30d/186516
 
 #EXTINF:-1, CANAL 13
