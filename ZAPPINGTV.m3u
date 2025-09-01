@@ -108,7 +108,7 @@ http://195.66.210.10:80/AlbertArroyo24/MTKGD/439797
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png", NATIONAL GEOGRAPHIC
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/2465
 
-#EXTINF:-1, DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1200px-2019_Discovery_logo.svg.png", DISCOVERY CHANNEL 
 http://195.66.210.10:80/AlbertArroyo24/MTKGD/93442
 
 #EXTINF:-1, ANIMAL PLANET
