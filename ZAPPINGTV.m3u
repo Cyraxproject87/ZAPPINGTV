@@ -18,7 +18,7 @@ http://195.66.210.10:80/AlbertArroyo24/MTKGD/46976
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png", TN
 http://195.66.210.10:80/AlbertArroyo24/MTKGD/613255
 
-#EXTINF:-1, CRÓNICA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Crónica_TV_logotipo_%282016%29.png/1200px-Crónica_TV_logotipo_%282016%29.png", CRÓNICA TV
 http://195.66.210.10:80/AlbertArroyo24/MTKGD/19708
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/290/978/png-clipart-logo-tyc-sports-brand-trademark-mosaic-blue-text.png", TyC SPORTS
